@@ -1,0 +1,14 @@
+QCM : Quelle comande verifie la propreté du dépot local :
+
+git clone
+git status
+git add
+git push
+
+Exercice 2 :
+1 git init
+2 git add CR
+3 vim .gitignore; ecrire *.a CR dans le .gitignore puis git commit -m "ajout du gitignore"
+
+4 vim fich1.c; git add fich1.c; git status;
+5
